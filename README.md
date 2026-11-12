@@ -11,7 +11,7 @@
 
 ### Tech stack
 
-<a href="#tech-stack"><img src="assets/tech-stack.svg" alt="Frontend: React, Angular, TypeScript, JavaScript, HTML, CSS, Sass, Bootstrap, Three.js · Backend: Node.js, Express, Java, Spring Boot, C# / .NET, Python, Django, C · Data: MySQL, MongoDB, Pandas · Mobile: Flutter, Dart, React Native · Cloud: AWS, Azure, Google Cloud · CMS: WordPress, Wix, Joomla, Squarespace · Tools: Docker, Git, Vite" width="100%" /></a>
+<a href="#tech-stack"><img src="assets/stack-v3.svg" alt="Frontend: React, Angular, TypeScript, JavaScript, HTML, CSS, Sass, Bootstrap, Three.js · Backend: Node.js, Express, Java, Spring Boot, C# / .NET, Python, Django · Data: MySQL, MongoDB, Pandas · Mobile: Flutter, Dart, React Native · Cloud: AWS · CMS: WordPress, Wix, Joomla, Squarespace · Tools: Docker, Git, Vite" width="100%" /></a>
 
 ### What I do
 
