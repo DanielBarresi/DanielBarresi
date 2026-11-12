@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Daniel Barresi — Web Developer · React · TypeScript · Three.js · Node.js" width="100%" />
+  <a><img src="assets/header.svg" alt="Daniel Barresi — Web Developer · React · TypeScript · Three.js · Node.js" width="100%" /></a>
 </p>
 
 ### About me
@@ -11,11 +11,11 @@
 
 ### Tech stack
 
-<img src="assets/stack.svg" alt="Frontend: React, Angular, TypeScript, JavaScript, HTML, CSS, Sass, Bootstrap, Three.js · Backend: Node.js, Express, Java, Spring Boot, C# / .NET, Python, Django, C · Data: MySQL, MongoDB, Pandas · Mobile: Flutter, Dart, React Native · Cloud: AWS, Azure, Google Cloud · CMS: WordPress, Wix, Joomla, Squarespace · Tools: Docker, Git, Vite" width="100%" />
+<a><img src="assets/stack.svg" alt="Frontend: React, Angular, TypeScript, JavaScript, HTML, CSS, Sass, Bootstrap, Three.js · Backend: Node.js, Express, Java, Spring Boot, C# / .NET, Python, Django, C · Data: MySQL, MongoDB, Pandas · Mobile: Flutter, Dart, React Native · Cloud: AWS, Azure, Google Cloud · CMS: WordPress, Wix, Joomla, Squarespace · Tools: Docker, Git, Vite" width="100%" /></a>
 
 ### What I do
 
-<img src="assets/what-i-do.svg" alt="Frontend: interfaces with React and TypeScript · 3D & motion: Three.js scenes and animations · Back-end: APIs with Node.js and Express, now C# and Spring Boot" width="100%" />
+<a><img src="assets/what-i-do.svg" alt="Frontend: interfaces with React and TypeScript · 3D & motion: Three.js scenes and animations · Back-end: APIs with Node.js and Express, now C# and Spring Boot" width="100%" /></a>
 
 ### Get in touch
 
