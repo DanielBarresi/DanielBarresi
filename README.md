@@ -11,7 +11,7 @@
 
 ### Tech stack
 
-<img src="assets/stack.svg" alt="Frontend: React, TypeScript, JavaScript, HTML, CSS, Three.js · Backend: Node.js, Express, C# / .NET, Spring Boot · Tools: Docker, Git, Vite, WordPress, Flutter" width="100%" />
+<img src="assets/stack.svg" alt="Frontend: React, Angular, TypeScript, JavaScript, HTML, CSS, Sass, Bootstrap, Three.js · Backend: Node.js, Express, Java, Spring Boot, C# / .NET, Python, Django, C · Data: MySQL, MongoDB, Pandas · Mobile: Flutter, Dart, React Native · Cloud: AWS, Azure, Google Cloud · Tools: Docker, Git, Vite, WordPress" width="100%" />
 
 ### What I do
 
